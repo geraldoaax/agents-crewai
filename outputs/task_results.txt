@@ -1,0 +1,8 @@
+Task: Criar um calendário de posts para o LinkedIn começando em 22/05/24
+Result: Error processing task
+Task: Escrever textos para os posts do calendário
+Result: Error processing task
+Task: Criar imagens para acompanhar os posts
+Result: Error processing task
+Task: Desenvolver roteiros para vídeos do YouTube
+Result: Error processing task
